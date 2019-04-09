@@ -12,7 +12,7 @@ Because Powerline is a Python app, we need to have Python and that too a proper 
 - Run `brew install python`  to install the latest Python via Homebrew
 
 ### Install pip
- Install pip, a package manager for Python (similar to NPM)
+Install pip, a package manager for Python (similar to NPM)
 Install pip by running the following command:
 `sudo easy_install pip`
 
@@ -47,7 +47,7 @@ POWERLINE_BASH_SELECT=1
 . /Users/rupa/Library/Python/2.7/lib/python/site-packages/powerline/bindings/bash/powerline.sh
 ```
 
-- Restart the Terminal and open again
+- Restart the Terminal
 
 ----
 
