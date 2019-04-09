@@ -34,7 +34,6 @@ We must add the daemon with a proper location to .bash_profile:
 	- Make sure you have `.bash_profile` file in your root directory. If not following create one by doing:`cd ~ && touch ~/.bash_profile`
 	- Open `.bash_profile` and add the following:
 
-::.bash_profile::
 ```bash
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
